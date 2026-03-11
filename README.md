@@ -6,7 +6,6 @@
 - M.S., Computer Science | Southeast Missouri State University (_Dec 2025_)								       		
 - B.Tech / B.E., Computer Science and Engineering	| The University of Texas at Dallas (_May 2014_)	 			        		
 
-
 ## Project / Technical Experience
 ### 1. Smart Boutique Management System
 Python, Streamlit, SQLite, Pandas, SQL
